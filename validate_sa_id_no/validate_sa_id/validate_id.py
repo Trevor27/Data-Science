@@ -74,7 +74,3 @@ def validation(id_no):
     ):
         return True
     return False
-
-
-if __name__ == "__main__":
-    print(validation("9504275303081"))
